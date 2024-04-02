@@ -1,4 +1,5 @@
 ---
-title: "about me"
-subtitle: "As a dedicated and detail-oriented Accounting and Data Science professional, I am pursuing a Bachelor of Science in Accounting with a Certificate in Data Science at Brigham Young University–Idaho, boasting a perfect 4.0 GPA. My academic journey is distinguished by a Thomas E. Ricks academic achievement scholarship and active participation in leadership roles, including serving as a Heber J. Grant Mentor.  Among my skills and various interests, I can say that I'm fluent in Spanish, I am also an apprentice ballet dancer, and I'm continuously expanding my knowledge in data and accounting systems with skills in MS Excel, Python, MySQL, Tableau, PowerBI, QBO, Drake, and Idea."
+title: "About me"
+subtitle: "As a dedicated and detail-oriented Accounting and Data Science professional, I am pursuing a Bachelor of Science in Accounting with a Certificate in Data Science at Brigham Young University–Idaho, boasting a perfect 4.0 GPA. My academic journey is distinguished by a Thomas E. Ricks academic achievement scholarship and active participation in leadership roles, including serving as a Heber J. Grant Mentor."
+"Among my skills and various interests, I can say that I'm fluent in Spanish, I am also an apprentice ballet dancer, and I'm continuously expanding my knowledge in data and accounting systems with skills in MS Excel, Python, MySQL, Tableau, PowerBI, QBO, Drake, and Idea."
 ---
